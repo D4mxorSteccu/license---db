@@ -1,1 +1,7 @@
-# license---db
+{
+  "superOwners": ["telegram_id_anda"],
+  "botOwners": {
+    "group1": ["telegram_id_1", "telegram_id_2"],
+    "group2": ["telegram_id_3"]
+  }
+}
